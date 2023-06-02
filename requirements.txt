@@ -1,4 +1,15 @@
+asgiref
+attrs
+Django
+iniconfig
+packaging
+pluggy
+py
+pyparsing
+pytest
+pytest-cov
+pytz
+sqlparse
+toml
 wheel
 setuptools
-pytest
-django
